@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyPidgeon", "FlappyPidgeon.csproj", "{2F30A529-8242-5F87-0885-D17E6D5590FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F30A529-8242-5F87-0885-D17E6D5590FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F30A529-8242-5F87-0885-D17E6D5590FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F30A529-8242-5F87-0885-D17E6D5590FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F30A529-8242-5F87-0885-D17E6D5590FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
